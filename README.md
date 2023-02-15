@@ -1,4 +1,4 @@
-# MachineLearning 1
+# Machine Learning
 GitHub repository for Machine Learning Project 1 & 2 from EMJMDNP
 
 Group formed by Alan Ricardo Cíntora de la Cruz, Guillermo Ortega Ureta, Iván Mozún Mateo.
